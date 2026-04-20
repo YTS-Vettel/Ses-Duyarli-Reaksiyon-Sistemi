@@ -28,3 +28,10 @@ Bu yöntem, ses dalgalarının karelerinin ortalamasının karekökünü alarak 
 
 Karar Mekanizması: Hesaplanan ses seviyesi, kodda belirlenen eşik değeriyle (Threshold) karşılaştırılır. 
 Eğer ses bu eşiği geçerse, Swing arayüzü tetiklenerek ekran rengi anlık olarak değişir.
+
+
+### 📸 Ekran Görüntüleri
+
+| Bekleme Modu (Sessiz) | Reaksiyon Modu (Sesli) |
+| :---: | :---: |
+| ![Yeşil Ekran](yesil.png) | ![Kırmızı Ekran](kirmizi.png) |
