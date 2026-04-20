@@ -30,8 +30,9 @@ Karar Mekanizması: Hesaplanan ses seviyesi, kodda belirlenen eşik değeriyle (
 Eğer ses bu eşiği geçerse, Swing arayüzü tetiklenerek ekran rengi anlık olarak değişir.
 
 
-### 📸 Ekran Görüntüleri
 
-| Bekleme Modu (Sessiz) | Reaksiyon Modu (Sesli) |
+### 📸 Uygulama Görünümü
+
+| Sessiz Durum | Sesli Reaksiyon |
 | :---: | :---: |
-| ![Yeşil Ekran](yesil.png) | ![Kırmızı Ekran](kirmizi.png) |
+| <img src="images/yesil.png" width="350"> | <img src="images/kirmizi.png" width="350"> |
